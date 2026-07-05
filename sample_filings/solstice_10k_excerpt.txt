@@ -1,0 +1,70 @@
+SOLSTICE ROBOTICS, INC.
+FORM 10-K EXCERPT — FISCAL YEAR 2025
+(SYNTHETIC TEST DOCUMENT — Solstice Robotics is a fictional company. Every
+figure below was generated for testing this RAG pipeline and does not
+describe any real business.)
+
+ITEM 1. BUSINESS
+
+Solstice Robotics, Inc. ("Solstice," "we," "us," or "the Company") designs
+and manufactures autonomous mobile robots for warehouse logistics. We
+operate through two reportable segments: Hardware Systems, which sells
+robot units and docking infrastructure, and Software & Services, which
+provides the fleet-management platform and ongoing maintenance contracts
+our customers rely on after purchase.
+
+ITEM 1A. RISK FACTORS
+
+Our revenue is concentrated among a small number of large customers. In
+fiscal year 2025, our three largest customers accounted for approximately
+41% of total revenue, and the loss of any one of them could materially
+affect our results of operations.
+
+We depend on a limited number of suppliers for lidar sensors and
+specialized motor controllers. A sustained disruption at any single
+supplier could delay shipments and harm our relationships with customers
+who have committed deployment schedules.
+
+Our Software & Services segment has grown faster than Hardware Systems
+and now carries higher gross margins, but it also depends on customer
+renewal rates. A decline in net dollar retention would have a
+disproportionate effect on operating margin given the segment's growing
+share of total revenue.
+
+ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS
+
+Total revenue for fiscal year 2025 was $412.6 million, an increase of 18%
+compared to $349.7 million in fiscal year 2024. Hardware Systems revenue
+was $268.3 million, up 9% year over year, while Software & Services
+revenue was $144.3 million, up 41% year over year.
+
+Gross margin for the year was 47.2%, compared to 44.1% in the prior year.
+The improvement was driven primarily by the increasing mix of
+Software & Services revenue, which carries a gross margin of
+approximately 78%, versus Hardware Systems gross margin of approximately
+31%.
+
+Operating expenses, excluding cost of revenue, were $156.8 million,
+representing 38.0% of total revenue, compared to 41.2% in the prior year.
+Research and development expense was $71.4 million, or 17.3% of revenue.
+
+Net income for fiscal year 2025 was $24.9 million, compared to a net loss
+of $6.2 million in fiscal year 2024. The improvement reflects both the
+revenue growth described above and continued operating leverage as fixed
+costs were spread over a larger revenue base.
+
+As of the end of fiscal year 2025, we had cash and cash equivalents of
+$187.3 million and no outstanding debt. We believe our existing cash
+balance, together with cash generated from operations, will be sufficient
+to fund operations for at least the next 24 months.
+
+Annual recurring revenue from Software & Services subscriptions was
+$118.7 million at year end, representing a net dollar retention rate of
+112% for the trailing twelve months.
+
+ITEM 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+
+We are exposed to foreign currency risk related to manufacturing
+operations in Mexico and Vietnam. Approximately 22% of our cost of
+revenue is denominated in currencies other than the U.S. dollar. We do
+not currently use derivative instruments to hedge this exposure.

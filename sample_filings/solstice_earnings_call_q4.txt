@@ -1,0 +1,81 @@
+SOLSTICE ROBOTICS, INC.
+Q4 AND FULL YEAR 2025 EARNINGS CALL — PREPARED REMARKS AND Q&A (EXCERPT)
+(SYNTHETIC TEST DOCUMENT — fictional company, fictional transcript,
+generated only for testing this RAG pipeline.)
+
+OPERATOR: Good afternoon and welcome to the Solstice Robotics fourth
+quarter and full year 2025 earnings call. I will now turn the call over
+to the Chief Executive Officer.
+
+CEO (MAYA OKONKWO): Thank you. Fiscal 2025 was a turning point for
+Solstice. Full year revenue grew 18% to $412.6 million, and we returned
+to profitability with net income of $24.9 million, compared to a net
+loss last year. The story behind those numbers is our Software & Services
+segment, which grew 41% and now represents 35% of total revenue, up from
+29% a year ago.
+
+We ended the year with annual recurring revenue of $118.7 million and net
+dollar retention of 112%, which tells us existing customers are not just
+renewing, they're expanding their deployments with us. That's the
+clearest signal we have that the fleet-management platform is becoming
+the more durable part of this business.
+
+On the hardware side, growth was more modest at 9%, which reflects
+elongated sales cycles at a few of our largest prospective customers
+rather than any change in demand fundamentals. We expect hardware
+bookings to reaccelerate in the back half of fiscal 2026 as several of
+those evaluations move toward decision.
+
+CFO (DEREK FENWICK): Thanks, Maya. Gross margin for the year was 47.2%,
+up from 44.1%, driven by mix shift toward Software & Services, which
+carries roughly 78% gross margin versus 31% for Hardware Systems. We
+expect that mix shift to continue, and we're targeting company-wide gross
+margin in the 49% to 51% range for fiscal 2026.
+
+We ended the year with $187.3 million in cash and no debt. We are not
+planning to raise additional capital in the near term; our current
+balance plus operating cash flow gives us at least a two-year runway
+under our current plan.
+
+OPERATOR: We'll now take questions. Our first question comes from the
+line of an analyst at a sell-side firm.
+
+ANALYST: Thanks for taking the question. Can you say more about what's
+driving the deceleration in Hardware Systems growth, and whether that's a
+demand issue or something else?
+
+CEO (MAYA OKONKWO): It's primarily a sales-cycle issue, not a demand
+issue. Several of our largest pipeline opportunities are large
+enterprise customers running multi-quarter pilot programs before
+committing to a full deployment. We've seen pilots convert at a high
+rate historically, so we're not concerned about the underlying demand —
+it's a timing question, and we expect several of those pilots to convert
+into bookings in the first half of calendar 2026.
+
+ANALYST: And on customer concentration — can you remind us how
+concentrated revenue is among your largest customers, and has that
+changed?
+
+CFO (DEREK FENWICK): Our top three customers represented approximately
+41% of revenue this year, which is roughly in line with the prior year.
+We're actively working to diversify the customer base as part of our
+go-to-market strategy for fiscal 2026, particularly by expanding into
+mid-market logistics providers where deployment cycles tend to be
+shorter.
+
+OPERATOR: Our next question comes from another analyst.
+
+ANALYST 2: Question on currency exposure — given your manufacturing
+footprint, how are you thinking about hedging given the FX volatility
+we've seen this year?
+
+CFO (DEREK FENWICK): We currently don't use derivative instruments to
+hedge our FX exposure, which is primarily tied to manufacturing costs in
+Mexico and Vietnam — about 22% of cost of revenue is in non-dollar
+currencies. We continually evaluate whether a hedging program would be
+worth the cost and complexity, but at our current scale we've concluded
+the natural variability is manageable without one. We'll keep evaluating
+that as the business grows.
+
+OPERATOR: That concludes our question and answer session. Thank you for
+joining us today.
